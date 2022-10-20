@@ -1,0 +1,37 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    margin-bottom: 60px;
+    background-color: coral;
+    text-align: center;
+    padding: 40px;
+}
+.imagem-poluicao {
+    width: 25%;
+    margin-left: 10%;
+}
+
+body {
+    background-color: burlywood;
+
+}
+
+.principal-meioambiente {
+    display: flex;
+}
+
+.secundario-itens {
+   padding-top: 50px;
+    margin-left: 26%;
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.secundario-subtitulo {
+    text-align: center;
+}
