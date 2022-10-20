@@ -35,3 +35,7 @@ body {
 .secundario-subtitulo {
     text-align: center;
 }
+
+.itens:before{
+    content: "\1F4A2";
+}
